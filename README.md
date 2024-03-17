@@ -7,9 +7,9 @@ I like to keep custom configuration minimal so I can still use tmux reliably whe
 
 ### Key Bindings
 #### Prefix
-I changed the prefix to `Ctrl a` and configured vim movement keys for navigating panes.
+I changed the prefix to `Ctrl+a` and configured vim movement keys for navigating panes.
 
-I like having the prefix set to `Ctrl a` on my workstations and `Ctrl b` on servers.
+I like having the prefix set to `Ctrl+a` on my workstations and `Ctrl+b` on servers.
 This makes it easier for me to issue tmux commands per session.
 
 #### Other non-default bindings
@@ -20,8 +20,8 @@ This makes it easier for me to issue tmux commands per session.
 - Split window horizontally (top and bottom) with `Ctrl+a S`.
 - Use `Ctrl+a [h,j,k,l]` to navigate panes (splits).
 - Copy mode uses vi keys.
-  - Start visual selection of characters with **v**.
-  - Yank (copy) selections with **y**.
+  - Start visual selection of characters with `v`.
+  - Yank (copy) selections with `y`
 
 ### Status Bar
 The status bar is fairly basic which looks like this (but with color):
