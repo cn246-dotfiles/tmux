@@ -22,6 +22,7 @@ This makes it easier for me to issue tmux commands per session.
 - Copy mode uses vi keys.
   - Start visual selection of characters with `v`.
   - Yank (copy) selections with `y`
+- Open a floating terminal with `Meta(option/alt)+p` -- Note that on Mac terminal.app you need to enable Option as meta key in settings.
 
 ### Status Bar
 The status bar is fairly basic which looks like this (but with color):
